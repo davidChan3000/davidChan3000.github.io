@@ -8,14 +8,14 @@
 | Gender: Female                 | City: Beijing, China       |
 | Job Title: SphereEx co-founder&CTO | Community Title:<br>Apache member & [Apache ShardingSphere](https://github.com/apache/shardingsphere) PMC & [Apache brpc](https://github.com/apache/incubator-brpc) mentor & [Apache AGE](https://github.com/apache/incubator-age) mentor|
 | E-mail:<br><a href="mailto:panjuan@apache.org">panjuan@apache.org</a> | Twitter:<br>[tristaZero](https://twitter.com/tristaZero) | -->
-#### **~~姓名~~*English Name*** ~~潘娟~~ *Juan Pan11*
+#### **~~姓名~~*English Name*** ~~潘娟~~ *Juan Pan*
 #### **~~性别~~*Gender*** ~~女~~ *Female*
 #### **~~城市~~*city*** ~~北京, 中国~~ *Beijing, China*
 #### **~~职称~~*Job Title*** ~~SphereEx 联合创始人 & CTO~~ *SphereEx co-founder & CTO*
 #### **~~社区名称~~*Community Title*** ~~Apache Member & Apache ShardingSphere PMC & Apache brpc(Incubating) mentor & Apache AGE(Incubating) mentor~~ *Apache Member & Apache ShardingSphere PMC & Apache brpc(Incubating) mentor & Apache AGE(Incubating) mentor*
 #### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
 #### **Twitter** [tristaZero](https://twitter.com/tristaZero)
-
+    
 ###  Education
 
 - **~~硕士~~*Master degree***, *major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University* ~~2014年9月-2016年6月，大连海事大学视觉模式检索与云计算专业~~
