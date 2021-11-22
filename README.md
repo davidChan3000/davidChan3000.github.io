@@ -1,6 +1,6 @@
 ## Welcome to Trista's Pages
 
-###  Personal
+###  *Personal*~~个人信息~~
 
 <!-- |                                |                           |
 | :-----------------------------: | :------------------------: |
@@ -16,12 +16,12 @@
 #### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
 #### **Twitter** [tristaZero](https://twitter.com/tristaZero)
     
-###  Education
+###  *Education*~~教育经历~~
 
 - **~~硕士~~*Master degree***, *major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University* ~~2014年9月-2016年6月，大连海事大学视觉模式检索与云计算专业~~
 - **~~学士~~*Bachelor degree***, *major in Software developing, Sep.2010-Jun.2014, Hebei Normal University* ~~2010年9月-2014年6月河北师范大学软件开发专业~~
 
-###  Career
+###  *Career*~~职业生涯~~
 
 - *SphereEx Co-Founder & CTO*~~SphereEx 联合创始人~~
 - *Senior DBA at [JD.com](http://JD.com)*~~[京东](http://JD.com)高级 DBA~~
@@ -30,7 +30,7 @@
 - *Head of Automated Database Management Platform (MySQL, Python, DevOps)*~~负责自动化数据库管理平台（MySQL, Python, DevOps）~~
 - *Database Management for MySQL (Data modeling, Recovery, Back up, Performance etc.)*~~MySQL 数据库管理（数据建模、修复、备份、性能等）~~
 
-###  Event & Conference Appearances
+###  *Event & Conference Appearances*~~活动经历~~
 
 > **2021**    
 > - [ITPUB.NET](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)，“[借力 Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)”
@@ -93,9 +93,9 @@
 > - ACMUG2017 MySQL 年会，"京东金融自动化与智能化运维设计与实践"
 > - ODF 2017 开源数据库论坛（台北），"稳中求进-打造京东金融 MySQL 运维高可用与自动化"
 
-###  Articles & Written Contributions
+###  *Articles & Written Contributions*~~文章布道~~
 
-> **Personal Development**
+> ***Personal Development*~~个人发展~~**
 > - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
@@ -107,13 +107,13 @@
 > - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)([学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ))
 
-> **Technical**
+> ***Technical*~~技术解读~~**
 > - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
 
-###  Audio
+###  *Audio*~~播客~~
 - [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (嘉宾)
 - [How do we build Apache ShardingSphere community (Part two)](https://www.ximalaya.com/keji/37853515/308619842) (嘉宾)
 - [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0) (嘉宾t)
@@ -128,7 +128,7 @@
 - [The Data Way Vol.03｜做到最后只能删库跑路？DBA 能做的还有很多](http://xima.tv/1_AvNnul?_sonic=0)
 - [The Data Way Vol.05｜这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)
 
-###  Video
+###  *Video*~~视频~~
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (演讲嘉宾)
 - [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (演讲嘉宾)
 - [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (演讲嘉宾)
