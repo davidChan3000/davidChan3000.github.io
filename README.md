@@ -11,8 +11,8 @@
 #### **~~姓名~~*English Name*** ~~潘娟~~ *Juan Pan (Trista)*
 #### **~~性别~~*Gender*** ~~女~~ *Female*
 #### **~~城市~~*city*** ~~北京, 中国~~ *Beijing, China*
-#### **~~职称~~*Professional Title*** ~~SphereEx 联合创始人 & CTO~~ *SphereEx co-founder & CTO*
-#### **~~社区名称~~*Community Title*** Apache Member & Apache ShardingSphere PMC & Apache brpc(Incubating) mentor & Apache AGE(Incubating) mentor，AWS Data Hero.
+#### **~~职称~~*Professional Title*** ~~SphereEx 联合创始人 & CTO~~ *SphereEx Co-Founder & CTO*
+#### **~~社区名称~~*Community Title*** Apache Member & Apache ShardingSphere PMC & Apache brpc(Incubating) mentor & Apache AGE (Incubating) Mentor，AWS Data Hero.
 #### **E-mail** <a href="mailto:panjuan@apache.org">panjuan@apache.org</a>
 #### **Twitter** [tristaZero](https://twitter.com/tristaZero)
     
@@ -114,14 +114,14 @@
 > - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) -->
 
 ###  Audio
-- [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (As the guest)(嘉宾)
-- [How do we build Apache ShardingSphere community (Part two)](https://www.ximalaya.com/keji/37853515/308619842) (As the guest)(嘉宾)
-- [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0) (As the guest)(嘉宾)
-- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (As the hostess)(主持人)
-- [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0) (As the hostess)(主持人)
-- [The experience of Summer code 2020](https://mp.weixin.qq.com/s/4IMWAyH0yMgzXRX0a-_00w) (As the hostess)(主持人)
-- [The Apache incubator journey of Apache ECharts](https://mp.weixin.qq.com/s/B1Pr7f4ncbfaivTTS8-Xyg) (As the hostess)(主持人)
-- [How do non-code contributors interact with OpenSource community](https://mp.weixin.qq.com/s/4fpJSfvHjE9WKIqeGpkEKQ) (As the hostess)(主持人)
+- [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (As the guest)
+- [How do we build Apache ShardingSphere community (Part two)](https://www.ximalaya.com/keji/37853515/308619842) (As the guest)
+- [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0) (As the guest)
+- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (As the hostess)
+- [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0) (As the hostess)
+- [The experience of Summer code 2020](https://mp.weixin.qq.com/s/4IMWAyH0yMgzXRX0a-_00w) (As the hostess)
+- [The Apache incubator journey of Apache ECharts](https://mp.weixin.qq.com/s/B1Pr7f4ncbfaivTTS8-Xyg) (As the hostess)
+- [How do non-code contributors interact with OpenSource community](https://mp.weixin.qq.com/s/4fpJSfvHjE9WKIqeGpkEKQ) (As the hostess)
 - [The Data Way-Vol.00 我们决定做一档陪伴工程师成长的播客](https://m.ximalaya.com/share/sound/435169174?cId=18&albumIds=51321288%2C34477950%2C20119986&uid=337295925&shrdv=oZTIywMGVFqiG-vYZW71Tz4T493I&shrh5=weixin&subType=1015&shrid=17abe7868a3a9c8&shrdh=3&shrpid=BUC3HF56UESZ6C9QHRK&commandShareId=dd58c431bdf0ebe8d07400936330ce75&shareTime=1626693200035&shareLevel=1)
 - [The Data Way Vol.01风口下的开源市场：如何看待开源与商业的关系?](http://xima.tv/1_nHe22L?_sonic=0)
 - [The Data Way Vol.02 做个『单纯』的程序员还真不简单](http://xima.tv/1_jqgNQn?_sonic=0)
