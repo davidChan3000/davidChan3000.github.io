@@ -5,7 +5,7 @@
 #### **~~姓名~~*English Name*** ~~张亮~~ *Liang Zhang*
 #### **~~性别~~*Gender*** ~~男~~ *Male*
 #### **~~城市~~*city*** ~~北京, 中国~~ *Beijing, China*
-#### **~~职位~~*Professional Title*** ~~SphereEx 创始人 & CEO~~ *Founder & CEO of sphereex*
+#### **~~职位~~*Professional Title*** ~~SphereEx 创始人 & CEO~~ *SphereEx Founder & CEO*
 #### **~~社区职位~~*Community Title***  Apache Member & Apache ShardingSphere PMC & Apache ShardingSphere、ElasticJob 创始人 & PMC Chair.
 #### **E-mail** <a href="mailto:zhangliang@apache.org">zhangliang@apache.org</a>
 #### **Twitter** [LiangZh52199766](https://twitter.com/LiangZh52199766)
@@ -17,7 +17,7 @@
 ###  *Career*~~职业生涯~~
 
 - *SphereEx Co-Founder & CTO*~~SphereEx 创始人~~
-- *JD architecture expert (open source, developed by Apache shardingsphere)*~~京东架构专家（开源，Apache ShardingSphere开发）~~
+- *JD architecture expert (open source, developed by Apache shardingsphere)*~~京东架构专家（开源，Apache ShardingSphere 开发）~~
 - *Architectural director of Dangdang (elastic job, sharding JDBC Development)*~~当当网架构师总监（ElasticJob， Sharding-JDBC 开发）~~
 
 ###  *Event & Conference Appearances*~~活动经历~~
