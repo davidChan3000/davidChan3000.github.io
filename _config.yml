@@ -1,5 +1,5 @@
 theme: jekyll-theme-minimal
-title: Juan Pan (Trista)
-description: <del>SphereEx 联合创始人 & CTO，Apache Member & Apache ShardingSphere PMC，Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor，AWS Data Hero，中国木兰开源社区导师。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。</del><em>SphereEx Co-Founder & CTO，Apache Member，Apache ShardingSphere PMC & Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor，AWS Data Hero，China Mulan Open Source Community Mentor.<br/><br/>She used to be responsible for the design and development of the intelligent database platform of JD Digital Science and Technology. She now focuses on the distributed database & middleware ecosystem, and open-source community. Recipient of the “2020 China Open-Source Pioneer” award & the “2021 OSCAR 2021 Top Open Source Pioneer”.</em>
+title: Liang Zhang
+description: <del>SphereEx 创始人 & CEO，Apache Member，Apache ShardingSphere、ElasticJob 创始人 & 项目管理委员会主席，腾讯云 TVP、微软 MVP。<br/><br/>热爱开源，擅长以 Java 为主分布式架构，推崇优雅代码。目前主要精力投入在将 Apache ShardingSphere 打造为业界一流的金融级分布式数据库解决方案之上；2019 年出版书籍《未来架构——从服务化到云原生》；2020年度十大开源杰出贡献人物，2021年度海纳奖“分布式数据库十大先锋人物”。</del><em></em>
 show_downloads: false
-logo: images/avatar.png
+logo: images/avatar.jpeg
