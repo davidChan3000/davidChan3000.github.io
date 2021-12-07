@@ -58,13 +58,13 @@
 
 ###  *Articles & Written Contributions*~~文章布道~~
 
-**2021**
+> **2021**
 > - InfoQ 发布文章为了让你搞定数据库选型，这些工程师重写了 26 万行代码
 > - 初心资本发布文章SphereEx CEO 张亮：数据库上云是大势所趋｜初心·问
 > - OSC开源社区发布文章张亮：为发展ShardingSphere创办SphereEx，看好云上订阅制
 > - InfoQ 发布开源创新 30 人专访 本土开源需形成吸纳开发者的靶心
 
-**2020**
+> **2020**
 > - 11.17 开源中国发布文章 从中间件到分布式数据库生态，ShardingSphere 5.x革新变旧
 > - 08.10 CSDN 发布文章 停滞数年后，ElasticJob 携首个 Apache 版本 3.0.0-alpha 回归！
 > - 07.09 InfoQ 发布文章 ElasticJob 的产品定位与新版本设计理念
@@ -74,7 +74,7 @@
 > - 04.20 开源中国 发布文章 80%的代码曾由一人提交， Apache ShardingSphere 何以从 ASF 毕业并晋升TLP
 > - 04.17 InfoQ 发布文章 ShardingSphere 毕业成为 Apache 顶级项目
 
-**2019**
+> **2019**
 > - 12.17 架构头条 发布文章 我们是怎样打造一款分布式数据库的
 > - 10.24 InfoQ 发布文章 首次公开：京东数科强一致、高性能分布式事务中间件 JDTX
 
