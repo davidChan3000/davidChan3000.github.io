@@ -88,6 +88,6 @@
 
 ###  *Video*~~视频~~
 
-- [云咖访谈 | 构建数据服务的新思路](https://www.bilibili.com/video/BV1H44y117fH?spm_id_from=333.999.0.0)
+- [云咖访谈  构建数据服务的新思路](https://www.bilibili.com/video/BV1H44y117fH?spm_id_from=333.999.0.0)
 - [带你从源码解读入门 Apache ShardingSphere](https://www.bilibili.com/video/BV17q4y1H7Bo?spm_id_from=333.999.0.0)
 - [ShardingSphere的Apache共建之道](https://www.bilibili.com/video/BV1aC4y1W7DA?spm_id_from=333.999.0.0)
