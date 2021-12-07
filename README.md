@@ -37,62 +37,57 @@
 > - QCon 全球软件开发大会“十年开源者的商业 CEO 转变之路”
 
 > **2020** 
-被评为 2020年度 十大开源杰出贡献人物
-11.07 录制 ALC Beijing Episode #4 : 技术架构、Community 和康威定律
-10.25 2020中国开源年会暨阿帕奇中国路演分享解读重生的分布式调度中间件 ElasticJob
-10.23 2020年软件铸魂·全国行（合肥站）之开源软件论坛
-09.29 Presentation New Feature of Apache ShardingSphere 5.x on ApacheCon 2020
-09.25 担任 CSDI summit中国软件研发管理行业技术峰会 服务治理 专场出品人
-04.25 PostgreSQL中文社区第6期直播分享 ShardingSphere的Apache共建之道
-04.10【数字科技学习周】第三讲 直播分享基于Apache ShardingSphere打造分布式数据库
-03.20【技术说】开源专场 直播分享如何共同打造Apache ShardingSphere
-02.26 京东数科大讲堂 直播分享基于Apache ShardingSphere打造分布式数据库
+> - 被评为 2020年度 十大开源杰出贡献人物
+> - 11.07 录制 ALC Beijing Episode #4 : 技术架构、Community 和康威定律
+> - 10.25 2020中国开源年会暨阿帕奇中国路演分享解读重生的分布式调度中间件 ElasticJob
+> - 10.23 2020年软件铸魂·全国行（合肥站）之开源软件论坛
+> - 09.29 Presentation New Feature of Apache ShardingSphere 5.x on ApacheCon 2020
+> - 09.25 担任 CSDI summit中国软件研发管理行业技术峰会 服务治理 专场出品人
+> - 04.25 PostgreSQL中文社区第6期直播分享 ShardingSphere的Apache共建之道
+> - 04.10【数字科技学习周】第三讲 直播分享基于Apache ShardingSphere打造分布式数据库
+> - 03.20【技术说】开源专场 直播分享如何共同打造Apache ShardingSphere
+> - 02.26 京东数科大讲堂 直播分享基于Apache ShardingSphere打造分布式数据库
 
 > **2019**
-12.08 主办 Apache ShardingSphere & DolphinScheduler 联合 Meetup
-11.26 在美团点评的 TopTalk 分享 基于 Apache ShardingSphere 打造分布式数据库
-11.09 在清华大学的开源之道大讲堂分享 Apache ShardingSphere 社区的探索与拓展
-09.10 Presentation Observability in distributed system on ApacheCon NA 2019
-06.23 担任 GIAC 2019 中间件专场出品人并分享 云化数据架构下的Apache ShardingSphere（Incubating）生态
+> - 12.08 主办 Apache ShardingSphere & DolphinScheduler 联合 Meetup
+> - 11.26 在美团点评的 TopTalk 分享 基于 Apache ShardingSphere 打造分布式数据库
+> - 11.09 在清华大学的开源之道大讲堂分享 Apache ShardingSphere 社区的探索与拓展
+> - 09.10 Presentation Observability in distributed system on ApacheCon NA 2019
+> - 06.23 担任 GIAC 2019 中间件专场出品人并分享 云化数据架构下的Apache ShardingSphere（Incubating）生态
 
 
 ###  *Articles & Written Contributions*~~文章布道~~
 
-> ***Personal Development*~~个人发展~~**
-> - *[Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)*~~[英雄日记——一个关于在开源世界中探索的故事](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)~~
-> - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
-> - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
-> - [A talking in OS-CHINA conference](https://mp.weixin.qq.com/s/UaFpCMv_UI_QH4RVhJPdew)
-> - [The co-meetup of Apache ShardingSSphere and Apache DolphinScheduler(Incubating)](https://mp.weixin.qq.com/s/PZ2vOMsyO_SbBBelMsPAFA)
-> - [A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
-> - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
-> - [潘娟：循序渐进打造活跃的多元化社区](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)
-> - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
-> - [How Can Students Participate in Open-Source Communities?](https://shardingsphere.medium.com/how-can-students-participate-in-open-source-communities-ff30a08169ef)([学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ))
+**2021**
+> - InfoQ 发布文章为了让你搞定数据库选型，这些工程师重写了 26 万行代码
+> - 初心资本发布文章SphereEx CEO 张亮：数据库上云是大势所趋｜初心·问
+> - OSC开源社区发布文章张亮：为发展ShardingSphere创办SphereEx，看好云上订阅制
+> - InfoQ 发布开源创新 30 人专访 本土开源需形成吸纳开发者的靶心
 
-> ***Technical*~~技术解读~~**
-> - [The practice solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
-> - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
-> - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
-> - [Distributed shared memory](https://mp.weixin.qq.com/s/pL_bDesG9eQPkMDPCFfVPQ) (Translation) 
+**2020**
+> - 11.17 开源中国发布文章 从中间件到分布式数据库生态，ShardingSphere 5.x革新变旧
+> - 08.10 CSDN 发布文章 停滞数年后，ElasticJob 携首个 Apache 版本 3.0.0-alpha 回归！
+> - 07.09 InfoQ 发布文章 ElasticJob 的产品定位与新版本设计理念
+> - 07.08 开源中国 发布文章 GitHub上持续冲榜，ElasticJob重启
+> - 04.21 ALC Beijing 发布文章 Apache 项目成功孵化案例之 — Apache ShardingSphere 一波三折的心跳之路
+> - 04.20 CSDN 发布文章 GitHub 标星 10,000+，Apache 顶级项目 ShardingSphere 的开源之路
+> - 04.20 开源中国 发布文章 80%的代码曾由一人提交， Apache ShardingSphere 何以从 ASF 毕业并晋升TLP
+> - 04.17 InfoQ 发布文章 ShardingSphere 毕业成为 Apache 顶级项目
+
+**2019**
+> - 12.17 架构头条 发布文章 我们是怎样打造一款分布式数据库的
+> - 10.24 InfoQ 发布文章 首次公开：京东数科强一致、高性能分布式事务中间件 JDTX
 
 ###  *Audio*~~播客~~
-- [How do we build Apache ShardingSphere community (Part one)](https://www.ximalaya.com/keji/37853515/304115934) (嘉宾)
-- [How do we build Apache ShardingSphere community (Part two)](https://www.ximalaya.com/keji/37853515/308619842) (嘉宾)
-- [A talking about the project Architecture design](http://xima.tv/ck62Vv?_sonic=0) (嘉宾t)
-- [The open source journey of Apache SkyWalking](https://mp.weixin.qq.com/s/QPNEPYpeyepGfTc8X6ofJQ) (主持人)
-- [Say hello world (ALC Beijing podcast)](http://xima.tv/mWthIo?_sonic=0) (主持人)
-- [The experience of Summer code 2020](https://mp.weixin.qq.com/s/4IMWAyH0yMgzXRX0a-_00w) (主持人)
-- [The Apache incubator journey of Apache ECharts](https://mp.weixin.qq.com/s/B1Pr7f4ncbfaivTTS8-Xyg) (主持人)
-- [How do non-code contributors interact with OpenSource community](https://mp.weixin.qq.com/s/4fpJSfvHjE9WKIqeGpkEKQ) (主持人)
-- [The Data Way Vol.00 我们决定做一档陪伴工程师成长的播客](https://m.ximalaya.com/share/sound/435169174?cId=18&albumIds=51321288%2C34477950%2C20119986&uid=337295925&shrdv=oZTIywMGVFqiG-vYZW71Tz4T493I&shrh5=weixin&subType=1015&shrid=17abe7868a3a9c8&shrdh=3&shrpid=BUC3HF56UESZ6C9QHRK&commandShareId=dd58c431bdf0ebe8d07400936330ce75&shareTime=1626693200035&shareLevel=1)
-- [The Data Way Vol.01风口下的开源市场：如何看待开源与商业的关系?](http://xima.tv/1_nHe22L?_sonic=0)
-- [The Data Way Vol.02 做个『单纯』的程序员还真不简单](http://xima.tv/1_jqgNQn?_sonic=0)
-- [The Data Way Vol.03｜做到最后只能删库跑路？DBA 能做的还有很多](http://xima.tv/1_AvNnul?_sonic=0)
-- [The Data Way Vol.05｜这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)
+
+- The Data Way Vol.1｜风口下的开源市场：如何看待开源与商业的关系？
+- The Data Way Vol.2 | 做个『单纯』的程序员还真不简单
+- The Data Way Vol.5｜这里有一场资本与开源的 battle
+- 录制 Podcast Episode #2（下） : Apache ShardingSphere 开发者们的欢乐与刺激
+- 录制 Podcast Episode #2（上） : Apache ShardingSphere 开发者们的欢乐与刺激
 
 ###  *Video*~~视频~~
-- [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (演讲嘉宾)
-- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) (演讲嘉宾)
-- [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) (演讲嘉宾)
-- [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2) (演讲嘉宾, 英文演讲)
+
+- 云咖访谈 | 构建数据服务的新思路
+- 带你从源码解读入门 Apache ShardingSphere
+- ShardingSphere的Apache共建之道
