@@ -33,7 +33,7 @@
 ###  *Event & Conference Appearances*~~活动经历~~
 
 > **2021**    
-> - *[ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)* ~~“[ITPUB.NET "借力 Apache ShardingSphere，打造企业分布式数据库平台生态"](https://www.bilibili.com/video/BV1Yy4y147oi/)”~~
+> - *[ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)* ~~[ITPUB.NET "借力 Apache ShardingSphere，打造企业分布式数据库平台生态"](https://www.bilibili.com/video/BV1Yy4y147oi/)~~
 > - *[OpenTEKr Open Source Notable Personlities Interview with Pan Juan](https://b23.tv/el3K3A)* ~~[开源人物专访潘娟](https://b23.tv/el3K3A)~~
 > - *[SphereEx Founding Team's Exclusive Interview with SegmentFault](https://segmentfault.com/a/1190000039999206)* ~~思否[专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)~~
 > - *[Pan Juan, the only Woman Apache Member in China](https://segmentfault.com/a/1190000040352390)* ~~[中国唯一一位女性 Apache Member 潘娟：我们还是要走出自己与众不同的 My Way](https://segmentfault.com/a/1190000040352390)~~
@@ -43,7 +43,7 @@
 > - *[GOTC 2021 Global Opensource Technology Conference, "How to Create an Open Source Distributed Database Ecosystem"](https://2021.openinfra.asia/schedule.html)*~~GOTC 2021 [全球开源技术峰会 - “如何打造数据库分布式开源生态”](https://2021.openinfra.asia/schedule.html)~~
 > - *[OpenInfra Days Asia 2021,“The Database Governance Mechanism of ShardingSphere’s Distributed Database Middleware Ecosystem”](https://2021.openinfra.asia/schedule.html)*~~[OpenInfra Days Asia 2021 “The Database Governance Mechanism of ShardingSphere’s Distributed Database Middleware Ecosystem”](https://2021.openinfra.asia/schedule.html)~~
 > - *[2021 Amazon Cloud Technology China Summit Dev Day, "Create a Distributed Database Ecosystem for Enterprise Cloud Applications"](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/)* ~~[2021亚马逊云科技中国峰会 - “构建云端的企业应用级分布式数据库生态”](https://aws.amazon.com/cn/about-aws/events/summit2021/index_dev/)~~
-> - *[Great Open Source Developers, "How I started my 'Great Developer' Journey"](https://www.huodongxing.com/event/7613387577423?utm_source=主页&utm_medium=banner_291022504540&utm_campaign=homepage&qd=6628363043952&type=SITE_BANNER_AD_CLICK)* ~~“[如何踏上成为“了不起的开发者”之路](https://twitter.com/osidays/status/1444973692178599936)”~~
+> - *[Great Open Source Developers, "How I started my 'Great Developer' Journey"](https://www.huodongxing.com/event/7613387577423?utm_source=主页&utm_medium=banner_291022504540&utm_campaign=homepage&qd=6628363043952&type=SITE_BANNER_AD_CLICK)* ~~[如何踏上成为“了不起的开发者”之路](https://twitter.com/osidays/status/1444973692178599936)~~
 > - *[Open Source India 2021,"How to Create a Distributed Database Ecosystem for Enterprise Cloud Applications"](https://www.opensourceindia.in/conference-agenda-2021/)* ~~“[Open Source India 2021,"How to Create a Distributed Database Ecosystem for Enterprise Cloud Applications"](https://twitter.com/osidays/status/1444973692178599936)”~~
 > - *[OADC Open Atom Developer Conference, "Apache ShardingSphere Open Source Distributed Database Ecosystem in Practice"](https://mp.weixin.qq.com/s/X4nOq5YmmMn9XMp_nItOpw)* ~~[OADC开放原子全球开发者大会 - “Apache ShardingSphere分布式数据库开源生态实战”](https://mp.weixin.qq.com/s/X4nOq5YmmMn9XMp_nItOpw)~~
 > - *[Named CAICT 2021 OSCAR "Top Open Source Personality"](https://cdn.modb.pro/db/111305)* ~~[获得中国信通院 2021 OSCAR 尖峰开源人物](https://cdn.modb.pro/db/111305)~~
@@ -126,7 +126,7 @@
 - *[The Data Way Vol.01 Great Opportunity for Open-Source Market: The Relation Between Open Source and Business](http://xima.tv/1_nHe22L?_sonic=0)* ~~[The Data Way Vol.01 风口下的开源市场：如何看待开源与商业的关系?](http://xima.tv/1_nHe22L?_sonic=0)~~
 - *[The Data Way Vol.02 It's not easy to be a "pure" programmer](http://xima.tv/1_jqgNQn?_sonic=0)*~~[The Data Way Vol.02 做个『单纯』的程序员还真不简单](http://xima.tv/1_jqgNQn?_sonic=0)~~
 - *[The Data Way Vol.03 Want to quit? There is a lot a DBA can do](http://xima.tv/1_AvNnul?_sonic=0)*~~[The Data Way Vol.03 做到最后只能删库跑路？DBA 能做的还有很多](http://xima.tv/1_AvNnul?_sonic=0)~~
-- *[The Data Way Vol.05 There is a battle between capital and open source](http://xima.tv/1_B65poz?_sonic=0)*~~[The Data Way Vol.05｜这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)~~
+- *[The Data Way Vol.05 There is a battle between capital and open source](http://xima.tv/1_B65poz?_sonic=0)*~~[The Data Way Vol.05 这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)~~
 - *[Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)*~~[Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)~~
 
 ###  *Video*~~视频~~
