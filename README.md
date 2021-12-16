@@ -19,7 +19,7 @@
 ###  *Education*~~教育经历~~
 
 - **~~硕士~~*Master degree***, *major in Visual pattern retrieval and Cloud computing, Sep.2014-Jun.2016, Dalian Maritime University* ~~2014年9月-2016年6月,大连海事大学视觉模式检索与云计算专业~~
-- **~~学士~~*Bachelor degree***, *major in Software developing, Sep.2010-Jun.2014, Hebei Normal University* ~~2010年9月-2014年6月，河北师范大学软件开发专业~~
+- **~~学士~~*Bachelor degree***, *major in Software developing, Sep.2010-Jun.2014, Hebei Normal University* ~~2010年9月-2014年6月,河北师范大学软件开发专业~~
 
 ###  *Career*~~职业生涯~~
 
@@ -33,7 +33,7 @@
 ###  *Event & Conference Appearances*~~活动经历~~
 
 > **2021**    
-> - *[ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)* ~~“[借力 Apache ShardingSphere，打造企业分布式数据库平台生态](https://www.bilibili.com/video/BV1Yy4y147oi/)”~~
+> - *[ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)* ~~“[ITPUB.NET "借力 Apache ShardingSphere，打造企业分布式数据库平台生态"](https://www.bilibili.com/video/BV1Yy4y147oi/)”~~
 > - *[OpenTEKr Open Source Notable Personlities Interview with Pan Juan](https://b23.tv/el3K3A)* ~~[开源人物专访潘娟](https://b23.tv/el3K3A)~~
 > - *[SphereEx Founding Team's Exclusive Interview with SegmentFault](https://segmentfault.com/a/1190000039999206)* ~~思否[专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)~~
 > - *[Pan Juan, the only Woman Apache Member in China](https://segmentfault.com/a/1190000040352390)* ~~[中国唯一一位女性 Apache Member 潘娟：我们还是要走出自己与众不同的 My Way](https://segmentfault.com/a/1190000040352390)~~
@@ -56,7 +56,7 @@
 > **2020**    
 > - *[Named "2020 China Open Source Pioneer"](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)*~~被评为[2020 中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)~~
 > - *[The 2020 Annual Summit of the Open Atom Open Source Foundation - "Create a Diverse and Active Open Source Community Step by Step”](https://segmentfault.com/area/openatomcon-2020)* ~~[开放原子开源基金会 2020 年度峰会 - "循序渐进打造多样化活跃开源社区"](https://segmentfault.com/area/openatomcon-2020)~~
-> - *[2020 China Software Technology Conference, "Database Architecture Evolution of Distributed Database Middleware"](http://www.softcon.cn)* ~~[2020 中国软件技术大会 - "分布式数据库中间件的数据库化架构演进"]~~
+> - *[2020 China Software Technology Conference, "Database Architecture Evolution of Distributed Database Middleware"](http://www.softcon.cn)* ~~2020 中国软件技术大会 - "分布式数据库中间件的数据库化架构演进"~~
 > - *[Open Source Software Supply Chain Summit 2020, "Apache ShardingSphere Distributed Database Ecosystem Architecture Evolution”](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting)* ~~[开源软件供应链 2020 峰会 - "Apache ShardingSphere 分布式数据库生态圈架构演进"](https://isrc.iscas.ac.cn/summer2020/#/summitmeeting)~~
 > - *[PGConf.Asia (PostgreSQL Conference Asia)](https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)* ~~[PGConf.Asia (PostgreSQL Conference Asia)"构建 PostgreSQL 的分布式数据库中间件生态体系"](https://mp.weixin.qq.com/s/7RpKbWPytzMH9VSgjxxCoA)~~
 > - *Apache Roadshow China 2020, “Minimalist Strategy for Distributed Database Middleware Ecosystem Use”* ~~Apache Roadshow China 2020, "数据库化的分布式数据库中间件生态圈极简使用策略"~~
@@ -122,15 +122,15 @@
 - [The experience of Summer code 2020](https://mp.weixin.qq.com/s/4IMWAyH0yMgzXRX0a-_00w) *(Host)* ~~(主持人)~~
 - [The Apache incubator journey of Apache ECharts](https://mp.weixin.qq.com/s/B1Pr7f4ncbfaivTTS8-Xyg) *(Host)* ~~(主持人)~~
 - [How do non-code contributors interact with OpenSource community](https://mp.weixin.qq.com/s/4fpJSfvHjE9WKIqeGpkEKQ) *(Host)* ~~(主持人)~~
-- *[The Data Way Vol.00 A Podcast Program Growing with Engineers](https://m.ximalaya.com/share/sound/435169174?cId=18&albumIds=51321288%2C34477950%2C20119986&uid=337295925&shrdv=oZTIywMGVFqiG-vYZW71Tz4T493I&shrh5=weixin&subType=1015&shrid=17abe7868a3a9c8&shrdh=3&shrpid=BUC3HF56UESZ6C9QHRK&commandShareId=dd58c431bdf0ebe8d07400936330ce75&shareTime=1626693200035&shareLevel=1)*, ~~[The Data Way Vol.00 我们决定做一档陪伴工程师成长的播客](https://m.ximalaya.com/share/sound/435169174?cId=18&albumIds=51321288%2C34477950%2C20119986&uid=337295925&shrdv=oZTIywMGVFqiG-vYZW71Tz4T493I&shrh5=weixin&subType=1015&shrid=17abe7868a3a9c8&shrdh=3&shrpid=BUC3HF56UESZ6C9QHRK&commandShareId=dd58c431bdf0ebe8d07400936330ce75&shareTime=1626693200035&shareLevel=1)~~
-- *[The Data Way Vol.01 Great Opportunity for Open-Source Market: The Relation Between Open Source and Business](http://xima.tv/1_nHe22L?_sonic=0)*, [The Data Way Vol.01风口下的开源市场：如何看待开源与商业的关系?](http://xima.tv/1_nHe22L?_sonic=0)~~
+- *[The Data Way Vol.00 A Podcast Program Growing with Engineers](https://m.ximalaya.com/share/sound/435169174?cId=18&albumIds=51321288%2C34477950%2C20119986&uid=337295925&shrdv=oZTIywMGVFqiG-vYZW71Tz4T493I&shrh5=weixin&subType=1015&shrid=17abe7868a3a9c8&shrdh=3&shrpid=BUC3HF56UESZ6C9QHRK&commandShareId=dd58c431bdf0ebe8d07400936330ce75&shareTime=1626693200035&shareLevel=1)* ~~[The Data Way Vol.00 我们决定做一档陪伴工程师成长的播客](https://m.ximalaya.com/share/sound/435169174?cId=18&albumIds=51321288%2C34477950%2C20119986&uid=337295925&shrdv=oZTIywMGVFqiG-vYZW71Tz4T493I&shrh5=weixin&subType=1015&shrid=17abe7868a3a9c8&shrdh=3&shrpid=BUC3HF56UESZ6C9QHRK&commandShareId=dd58c431bdf0ebe8d07400936330ce75&shareTime=1626693200035&shareLevel=1)~~
+- *[The Data Way Vol.01 Great Opportunity for Open-Source Market: The Relation Between Open Source and Business](http://xima.tv/1_nHe22L?_sonic=0)* ~~[The Data Way Vol.01 风口下的开源市场：如何看待开源与商业的关系?](http://xima.tv/1_nHe22L?_sonic=0)~~
 - *[The Data Way Vol.02 It's not easy to be a "pure" programmer](http://xima.tv/1_jqgNQn?_sonic=0)*~~[The Data Way Vol.02 做个『单纯』的程序员还真不简单](http://xima.tv/1_jqgNQn?_sonic=0)~~
-- *[The Data Way Vol.03｜Want to quit? There is a lot a DBA can do](http://xima.tv/1_AvNnul?_sonic=0)*~~[The Data Way Vol.03｜做到最后只能删库跑路？DBA 能做的还有很多](http://xima.tv/1_AvNnul?_sonic=0)~~
-- *[The Data Way Vol.05｜There is a battle between capital and open source](http://xima.tv/1_B65poz?_sonic=0)*~~[The Data Way Vol.05｜这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)~~
+- *[The Data Way Vol.03 Want to quit? There is a lot a DBA can do](http://xima.tv/1_AvNnul?_sonic=0)*~~[The Data Way Vol.03 做到最后只能删库跑路？DBA 能做的还有很多](http://xima.tv/1_AvNnul?_sonic=0)~~
+- *[The Data Way Vol.05 There is a battle between capital and open source](http://xima.tv/1_B65poz?_sonic=0)*~~[The Data Way Vol.05｜这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)~~
 - *[Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)*~~[Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)~~
 
 ###  *Video*~~视频~~
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) *(Speaker)* ~~(演讲嘉宾)~~
-- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) *(Speaker)* ~~(演讲嘉宾))~~
+- [Exploring Apache ShardingSphere with the perspective of new SQL](https://b23.tv/My70PT) *(Speaker)* ~~(演讲嘉宾)~~
 - [Build the distributed database ecosystem with NewSQL](https://www.bilibili.com/video/BV19z411e743) *(Speaker)* ~~(演讲嘉宾)~~
 - [Another backend storage solution for the APM system](https://www.youtube.com/watch?v=OazS_3r3NM4&list=PLU2OcwpQkYCwH0supvkpx6uLMDYuaxnbW&index=2) *(Speaker, in English)* ~~(演讲嘉宾, 英文演讲)~~
