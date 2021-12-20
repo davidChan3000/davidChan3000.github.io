@@ -100,7 +100,7 @@
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A talking in OS-CHINA conference](https://mp.weixin.qq.com/s/UaFpCMv_UI_QH4RVhJPdew)
-> - [The co-meetup of Apache ShardingSSphere and Apache DolphinScheduler(Incubating)](https://mp.weixin.qq.com/s/PZ2vOMsyO_SbBBelMsPAFA)
+> - [The co-meetup of Apache ShardingSphere and Apache DolphinScheduler(Incubating)](https://mp.weixin.qq.com/s/PZ2vOMsyO_SbBBelMsPAFA)
 > - [A talking in PostgreSQL China conference](https://blog.csdn.net/ShardingSphere/article/details/103360185)
 > - [A story of newbie DBA](https://mp.weixin.qq.com/s/1akzby9OaFuv3hn-2RFQ8A)
 > - *[Juan Pan: Create a Diverse and Active Open-Source Community Step by Step](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)* ~~[潘娟：循序渐进打造活跃的多元化社区](https://mp.weixin.qq.com/s/uVz_UU5roropVrCSg0X91A)~~
