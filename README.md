@@ -21,7 +21,7 @@
 
 ###  *Career*~~职业生涯~~
 
-- *SphereEx Co-Founder & CTO*~~SphereEx 创始人~~
+- *SphereEx Co-Founder & CEO*~~SphereEx 创始人~~
 - *JD architecture expert (open source, developed by Apache shardingsphere)*~~京东架构专家（开源，Apache ShardingSphere 开发）~~
 - *Architectural director of Dangdang (elastic job, sharding JDBC Development)*~~当当网架构师总监（ElasticJob， Sharding-JDBC 开发）~~
 
