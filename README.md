@@ -28,8 +28,8 @@
 ###  *Event & Conference Appearances*~~活动经历~~
 
 > **2021**    
-> - [2021DC 分布式数据库开发者大会“分布式数据库下的 Proxy 与 Proxyless 架构”](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
-> - [2021 年度海纳奖--分布式数据库十佳实践人物](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - [~~2021DC 分布式数据库开发者大会“分布式数据库下的 Proxy 与 Proxyless 架构”~~*Distributed Database Developer Conference 2021“Proxy and Proxyless Architecture Under Distributed Database”*](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
+> - [~~2021 年度海纳奖--分布式数据库十佳实践人物~~*Top Ten Distributed Database Pioneers of 2021” awarded by CSDN*](https://mp.weixin.qq.com/s/4-ZRAZNWHcaccqgy6ciY4g)
 > - ~~2021 数据技术嘉年华“数据库碎片化大潮下的 Database Plus”~~
 > - [~~QCon 全球软件开发大会“十年开源者的商业 CEO 转变之路”~~*QCon International Software Development Conference "From a Ten-Year Open Source Contributor to a Commercial CEO"*](https://qcon.infoq.cn/2021/shanghai/track/1168)
 > - ~~DTCC 第十二届中国数据库技术大会“构建数据库之上的标准：Apache ShardingSphere 在 Database Plus 的蓝海探索”~~*DTCC Database Technology Conference China 2021 - "Creating Standard for Database: Apache ShardingSphere's Blue Ocean Exploration in Database Plus"*
