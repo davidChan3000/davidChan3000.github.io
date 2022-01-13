@@ -1,29 +1,29 @@
-## Welcome to Liang Zhang's Pages
+## Welcome to Liang Zhang's Page
 
 ###  *Personal*~~个人信息~~
 
 #### **~~姓名~~*English Name*** ~~张亮~~ *Liang Zhang*
 #### **~~性别~~*Gender*** ~~男~~ *Male*
 #### **~~城市~~*city*** ~~北京, 中国~~ *Beijing, China*
-#### **~~职位~~*Professional Title*** ~~SphereEx 创始人 & CEO~~ *SphereEx Co-Founder & CEO*
+#### **~~职位~~*Professional Title*** ~~SphereEx 创始人 & CEO~~ *SphereEx Founder & CEO*
 
 
 
 
 
-#### **~~社区职位~~*Community Title***  Apache Member & Apache ShardingSphere PMC & Apache ShardingSphere, ElasticJob Co-Founder & PMC Chair.
+#### **~~社区职位~~*Community Title***  Apache Member & Apache ShardingSphere PMC & Apache ShardingSphere, ElasticJob Founder & PMC Chair.
 #### **E-mail** <a href="mailto:zhangliang@apache.org">zhangliang@apache.org</a>
 #### **Twitter** [LiangZh52199766](https://twitter.com/LiangZh52199766)
     
 ###  *Education*~~教育经历~~
 
-- **~~学士~~*Bachelor degree***, *Business software development at Waterford Institute of Technology* ~~沃特福德理工学院商业软件开发专业~~
+- **~~学士~~*Bachelor Degree***, *Enterprise Software Development at the Waterford Institute of Technology* ~~沃特福德理工学院商业软件开发专业~~
 
 ###  *Career*~~职业生涯~~
 
-- *SphereEx Co-Founder & CEO*~~SphereEx 创始人~~
-- *JD architecture expert (open source, developed by Apache shardingsphere)*~~京东架构专家（开源，Apache ShardingSphere 开发）~~
-- *Architectural director of Dangdang (elastic job, sharding JDBC Development)*~~当当网架构师总监（ElasticJob， Sharding-JDBC 开发）~~
+- *SphereEx Founder & CEO*~~SphereEx 创始人~~
+- *JD Architecture Expert (developed Apache shardingsphere)*~~京东架构专家（开源，Apache ShardingSphere 开发）~~
+- *Architecture Director of Dangdang (elastic job, sharding JDBC Development)*~~当当网架构师总监（ElasticJob，Sharding-JDBC 开发）~~
 
 ###  *Event & Conference Appearances*~~活动经历~~
 
