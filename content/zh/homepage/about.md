@@ -65,7 +65,7 @@ widget:
 - 分布式数据库中间件平台 PMC（Apache ShardingSphere）
 - 分布式交易中间件平台核心开发者（JDTX, 非开源）
 - 负责自动化数据库管理平台（MySQL, Python, DevOps）
-- MySQL 数据库管理（数据建模、修复、备份、性能等
+- MySQL 数据库管理（数据建模、修复、备份、性能等)
 
 ###  活动经历
 
