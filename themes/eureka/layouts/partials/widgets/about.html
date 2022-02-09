@@ -1,4 +1,4 @@
-<div class="mb-12 flex flex-col items-center justify-center md:flex-row">
+<header class="mb-12">
   {{ $img := partial "utils/get-image" (dict "context" . "url" .Params.avatar "keyword" "*avatar*") }}
   {{ with $img }}
     <div class="md:ms-0 md:me-8 md:pe-8 md:border-e mx-auto w-48 flex-none">
@@ -7,7 +7,7 @@
   {{ end }}
   <div class="mt-4 grow md:mt-0">
     <h1 class="py-4 text-3xl">{{ .Title }}</h1>
-    <div class="w-3/12 border-b xl:w-2/12"></div>
+    <div class="w-3/12  xl:w-2/12"></div>
 
     <div class="flex items-center pt-4">
       {{ with or (.Params.role) (.Params.organizations) }}
@@ -25,7 +25,7 @@
     </div>
 
     {{ with .Params.bio }}
-      <div class="py-8 text-lg leading-normal">
+      <div class=" text-lg leading-normal">
         {{ . | markdownify }}
       </div>
     {{ end }}
@@ -45,7 +45,8 @@
       </div>
     {{ end }}
   </div>
-</div>
-<div class="prose max-w-none">
+</header>
+<section class="prose max-w-none">
   {{ .Content }}
-</div>
+</section>
+<div class="greet-circle"><div class="small-circle"></div></div>

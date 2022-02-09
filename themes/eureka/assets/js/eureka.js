@@ -334,13 +334,14 @@ $(function(){
     }
 
     function setHeaderPos(){
-        let header = $('header'),
+        let header = $('header').eq(1),
         w = $(window)
 
-        
+        console.log(9999, header.height()+header.offset().top-w.scrollTop(), w.height())
         if(header.height()+header.offset().top-w.scrollTop() > w.height()) {
+            console.log(8888)
             header.addClass('scroll')
-        }else{
+        }else{console.log(7777)
             header.removeClass('scroll')
         }
 
@@ -348,14 +349,14 @@ $(function(){
     
     let flag = null;
     // $('#title').html($('h2').html())
-    // $(window).resize(function(){
-    //     clearTimeout(flag)
-    //     flag = setTimeout(function(){
-    //         setHeaderPos()
-    //     }, 500);
-    // })
+    $(window).resize(function(){
+        clearTimeout(flag)
+        flag = setTimeout(function(){
+            setHeaderPos()
+        }, 500);
+    })
     initTabElm()
-    // setTimeout(function(){
-    //     setHeaderPos()
-    // }, 500);
+    setTimeout(function(){
+        setHeaderPos()
+    }, 500);
 })

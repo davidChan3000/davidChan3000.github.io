@@ -3,7 +3,7 @@ title: Juan Pan (Trista)
 draft: false
 # role: Example Role
 avatar: images/avatar.png
-bio: SphereEx 联合创始人 & CTO, Apache Member & Apache ShardingSphere PMC, Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, 中国木兰开源社区导师。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。
+bio: SphereEx 联合创始人 & CTO, Apache Member & Apache ShardingSphere PMC, Apache brpc (Incubating) Mentor & Apache AGE (Incubating) Mentor, AWS Data Hero, 中国木兰开源社区导师。<br/><br/>曾负责京东数科数据库智能平台的设计与研发，现专注于分布式数据库 & 中间件生态及开源领域。被评为《2020 中国开源先锋人物》，2021 OSCAR 尖峰开源人物。<br/><br/><p><a href="https://github.com/tristaZero">View My GitHub Profile</a></p>
 # organization:
 #   name: Example Organization
 #   url: https://example.com/
@@ -14,9 +14,9 @@ bio: SphereEx 联合创始人 & CTO, Apache Member & Apache ShardingSphere PMC, 
 #   - icon: twitter
 #     iconPack: fab
 #     url: https://example.com/
-#   - icon: github
-#     iconPack: fab
-#     url: https://example.com/
+  # - icon: github
+  #   iconPack: fab
+  #   url: https://github.com/tristaZero/
 
 weight: 1
 widget:
@@ -130,7 +130,7 @@ widget:
 
 ###  文章布道
 
-> ***Personal Development*~~个人发展~~**
+> **个人发展**
 > - [Hero journery-A story about exploring in open source world](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
 > - [A DBA heads into open source community](https://mp.weixin.qq.com/s/KRjKlDEHJWcK1-oXf2k_8A)
 > - [The Apache Incubator journey of Apache ShardingSphere](https://mp.weixin.qq.com/s/0DpzNxrf_lZktBDv1TnWUg)
@@ -142,7 +142,7 @@ widget:
 > - [Why Should You Get Involved in an Open-Source Community?](https://medium.com/nerd-for-tech/why-should-you-get-involved-in-an-open-source-community-f5516657324)
 > - [学生群体如何参与开源社区](https://mp.weixin.qq.com/s/aWSY0xD6A_-vxOghznd8xQ)
 
-> ***Technical*~~技术解读~~**
+> **技术解读**
 > - [The practical solution of Apache ShardingSphere for JD.com](https://www.infoq.cn/article/1QvyzW9W*YuF685kYBkq)
 > - [How to mask sensitive data by means of Apache ShardingSphere](https://dbaplus.cn/news-159-2704-1.html)
 > - [A great idea to design the automatic executor engine of Apache ShardingSphere](https://mp.weixin.qq.com/s/hIKZPJDfGfeduW4frwVN_w)
