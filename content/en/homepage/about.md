@@ -69,7 +69,12 @@ widget:
 
 ###  Event & Conference Appearances
 
-> **2021**    
+> **2022**   
+> - [Tencent Cloud WeOpen「WeOpen Talk」](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
+> - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
+
+> **2021**   
+> - [2021 CHINA SOFTWARE TECHNOLOGY CONFERENCE](http://www.softcon.cn/)
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
 > - [OpenTEKr Open Source Notable Personlities Interview with Pan Juan](https://b23.tv/el3K3A)
 > - [SphereEx Founding Team's Exclusive Interview with SegmentFault](https://segmentfault.com/a/1190000039999206)
