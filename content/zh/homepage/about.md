@@ -74,7 +74,7 @@ widget:
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 
 > **2021**    
-> - [China Softcon 2021 中国软件技术大会“数据库中间件生产架构选型及未来架构演进”[http://www.softcon.cn/]
+> - [China Softcon 2021 中国软件技术大会“数据库中间件生产架构选型及未来架构演进”](http://www.softcon.cn/)
 > - [ITPUB.NET "借力 Apache ShardingSphere，打造企业分布式数据库平台生态"](https://www.bilibili.com/video/BV1Yy4y147oi/)
 > - [开源人物专访潘娟](https://b23.tv/el3K3A)
 > - 思否[专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)
