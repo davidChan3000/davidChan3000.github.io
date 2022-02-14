@@ -74,7 +74,6 @@ widget:
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 
 > **2021**   
-> - [2021 CHINA SOFTWARE TECHNOLOGY CONFERENCE](http://www.softcon.cn/)
 > - [ITPUB.NET Leverage Apache ShardingSphere to create an enterprise distributed database platform ecosystem](https://mp.weixin.qq.com/s/dNQRNoKL-JsOwrQXvOqJUg)
 > - [OpenTEKr Open Source Notable Personlities Interview with Pan Juan](https://b23.tv/el3K3A)
 > - [SphereEx Founding Team's Exclusive Interview with SegmentFault](https://segmentfault.com/a/1190000039999206)
@@ -94,6 +93,7 @@ widget:
 > - [AWS She Builds Summit，“From DBA & Open Source Contributor to CTO & Co-Founder of a Commercial Open Source Company”](https://aws-shebuilds-summit-2021.splashthat.com/)
 > - [Named "AWS Data Hero"](https://aws.amazon.com/cn/blogs/aws/meet-the-latest-aws-heroes-november-2021/)
 > - [PGConf.Asia 2021 "Setup the distributed database system for PostgreSQL"](https://2021.postgresconf.cn/speech/10)
+> - [2021 CHINA SOFTWARE TECHNOLOGY CONFERENCE](http://www.softcon.cn/)
 
 > **2020**    
 > - [Named "2020 China Open Source Pioneer"](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
@@ -170,6 +170,7 @@ widget:
 - [The Data Way Vol.03 Want to quit? There is a lot a DBA can do](http://xima.tv/1_AvNnul?_sonic=0)
 - [The Data Way Vol.05 There is a battle between capital and open source](http://xima.tv/1_B65poz?_sonic=0)
 - [Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)
+- [The Stack Overflow Podcast｜China’s only female Apache member on the rise of open source in China](https://the-stack-overflow-podcast.simplecast.com/episodes/chinas-only-female-apache-member-on-the-rise-of-open-source-in-china)
 
 ###  Video
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (Speaker)

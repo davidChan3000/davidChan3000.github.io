@@ -70,11 +70,10 @@ widget:
 ###  活动经历
 
 > **2022**   
-> - [腾源会「WeOpen Talk」“从女工程师转变成开源商业化Infra公司创始人，痛并快乐着”](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
+> - [腾源会「WeOpen Talk」“从女工程师转变成开源商业化 Infra 公司创始人，痛并快乐着”](https://mp.weixin.qq.com/s/uSo0dkvrDMaWgta-z3qJSw)
 > - [FOSDEM 2022, “PostgreSQL Distributed & Secure Database Ecosystem Building”](https://fosdem.org/2022/schedule/event/postgresql_postgresql_distributed_secure_database_ecosystem_building/)
 
 > **2021**    
-> - [China Softcon 2021 中国软件技术大会“数据库中间件生产架构选型及未来架构演进”](http://www.softcon.cn/)
 > - [ITPUB.NET "借力 Apache ShardingSphere，打造企业分布式数据库平台生态"](https://www.bilibili.com/video/BV1Yy4y147oi/)
 > - [开源人物专访潘娟](https://b23.tv/el3K3A)
 > - 思否[专访 SphereEx 创始团队](https://segmentfault.com/a/1190000039999206)
@@ -93,6 +92,7 @@ widget:
 > - [腾讯数字生态大会云原生开源生态专场圆桌讨论“云原生开源发展与商业化探索？”](https://des.cloud.tencent.com/2021/?code=031h4e0001JePM176K100naEBn2h4e0m&state=STATE)
 > - [荣获 AWS Data Hero](https://aws.amazon.com/cn/blogs/aws/meet-the-latest-aws-heroes-november-2021/)
 > - [PGConf.Asia 2021 "Setup the distributed database system for PostgreSQL"](https://2021.postgresconf.cn/speech/10)
+> - [China Softcon 2021 中国软件技术大会“数据库中间件生产架构选型及未来架构演进”](http://www.softcon.cn/)
 
 > **2020**    
 > - 被评为[2020 中国开源先锋人物](https://mp.weixin.qq.com/s/f_0PuVsD8iOt3owfYU0xMg)
@@ -168,6 +168,7 @@ widget:
 - [The Data Way Vol.03 做到最后只能删库跑路？DBA 能做的还有很多](http://xima.tv/1_AvNnul?_sonic=0)
 - [The Data Way Vol.05 这里有一场资本与开源的 battle](http://xima.tv/1_B65poz?_sonic=0)
 - [Apache PodCast｜FeatherCast](https://feathercast.apache.org/2021/12/14/shardingsphere/)
+- [The Stack Overflow Podcast｜China’s only female Apache member on the rise of open source in China](https://the-stack-overflow-podcast.simplecast.com/episodes/chinas-only-female-apache-member-on-the-rise-of-open-source-in-china)
 
 ###  视频
 - [Why do we want to head into the open-source world](https://b23.tv/tQeLJQ) (演讲嘉宾)
