@@ -20,7 +20,9 @@ jobs:
         with:
           hugo-version: 'latest'
           # extended: true
-
+      - name: Install
+        run: npm install postcss-cli
+         
       - name: Build
         run: hugo -D
 
