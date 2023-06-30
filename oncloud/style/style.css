@@ -387,6 +387,7 @@ color: #CCCCCC;
     font-size: 18px;
     line-height: 32px;
     margin-bottom:30px;
+    list-style: none;
 }
 
 .philosophy .con-item .con-item-detail img{
